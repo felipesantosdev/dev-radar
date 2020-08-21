@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/felipesantosdev/dev-radar">
-
 </p>
 
 <h2 align="center">See the devs that are close to you!</h2>
